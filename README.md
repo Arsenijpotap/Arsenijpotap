@@ -27,7 +27,7 @@
 
 ---
 
-<div align='left'>
+<div align='center'>
 <img src="https://wakatime.com/share/@arsenij27/05f7aa05-2588-41ff-8669-272e406b9f0e.png" />
-<img width='800'  src="https://wakatime.com/share/@arsenij27/5806a7a8-686e-4b8d-a233-65a5a50fb450.png" />
+<img width='700'  src="https://wakatime.com/share/@arsenij27/5806a7a8-686e-4b8d-a233-65a5a50fb450.png" />
 </div>
